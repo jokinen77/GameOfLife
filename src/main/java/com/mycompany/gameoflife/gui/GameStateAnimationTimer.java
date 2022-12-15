@@ -5,7 +5,6 @@
 package com.mycompany.gameoflife.gui;
 
 import com.mycompany.gameoflife.GameOfLife;
-import com.mycompany.gameoflife.gui.GameStateView;
 import javafx.animation.AnimationTimer;
 
 /**
